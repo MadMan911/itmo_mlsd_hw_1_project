@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+data/raw/
+models/
+mlruns/
