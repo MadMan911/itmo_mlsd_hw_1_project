@@ -18,8 +18,11 @@ repos:
         args: [--fix]
       - id: ruff-format
 
-  - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v2.4.0
+  - repo: local
     hooks:
       - id: mypy
-        files: ^src/
+        name: mypy (project environment)
+        entry: uv run mypy src
+        language: system
+        files: ^src/.*\.py$|^pyproject\.toml$|^uv\.lock$
+        pass_filenames: false
