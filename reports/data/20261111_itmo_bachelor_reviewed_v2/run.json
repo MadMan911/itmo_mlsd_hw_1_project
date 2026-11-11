@@ -1,0 +1,28 @@
+{
+  "snapshot": "20261111_itmo_bachelor_v1",
+  "output_id": "20261111_itmo_bachelor_reviewed_v2",
+  "review_sha256": "4a453ee50e9b4eabbf9be10f8c997de77cb4c937f6562277b945bccc4c8f75c3",
+  "documents_sha256": "e69ed075be49b57628fc93745e68186aa1d1febdeaf93a27e05d07ea466b81b0",
+  "chunk_size_words": 180,
+  "overlap_words": 30,
+  "document_count": 44,
+  "chunk_count": 631,
+  "topic_counts": {
+    "overview": 1,
+    "contacts": 1,
+    "faq": 1,
+    "exams": 2,
+    "admission_rules": 2,
+    "accessibility": 1,
+    "dormitory": 1,
+    "achievements": 1,
+    "admission_places": 1,
+    "minimum_scores": 1,
+    "regulations": 1,
+    "application": 2,
+    "funding": 1,
+    "target_quota": 1,
+    "programs": 27
+  },
+  "privacy": "No full source text or contact values in public diagnostics"
+}

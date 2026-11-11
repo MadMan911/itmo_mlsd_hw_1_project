@@ -1,0 +1,278 @@
+[
+  {
+    "url": "https://abit.itmo.ru/robots.txt",
+    "status": 200,
+    "bytes": 467,
+    "at": "2026-11-11T19:42:55.825575+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/sitemap.xml",
+    "status": 200,
+    "bytes": 61611,
+    "at": "2026-11-11T19:42:56.779523+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/bachelor",
+    "status": 200,
+    "bytes": 1132148,
+    "at": "2026-11-11T19:42:57.994829+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/contacts",
+    "status": 200,
+    "bytes": 168919,
+    "at": "2026-11-11T19:42:58.864595+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/faq",
+    "status": 200,
+    "bytes": 79429,
+    "at": "2026-11-11T19:42:59.848377+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/105",
+    "status": 200,
+    "bytes": 555309,
+    "at": "2026-11-11T19:43:01.395242+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/113",
+    "status": 200,
+    "bytes": 44867,
+    "at": "2026-11-11T19:43:01.920760+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/114",
+    "status": 200,
+    "bytes": 45688,
+    "at": "2026-11-11T19:43:02.879964+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/61",
+    "status": 200,
+    "bytes": 36628,
+    "at": "2026-11-11T19:43:03.842183+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/66",
+    "status": 200,
+    "bytes": 1265241,
+    "at": "2026-11-11T19:43:05.536509+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/69",
+    "status": 200,
+    "bytes": 49910,
+    "at": "2026-11-11T19:43:05.847087+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/71",
+    "status": 200,
+    "bytes": 39343,
+    "at": "2026-11-11T19:43:06.899005+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/73",
+    "status": 200,
+    "bytes": 41436,
+    "at": "2026-11-11T19:43:07.931863+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/74",
+    "status": 200,
+    "bytes": 636881,
+    "at": "2026-11-11T19:43:09.168571+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/80",
+    "status": 200,
+    "bytes": 557812,
+    "at": "2026-11-11T19:43:10.078429+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/86",
+    "status": 200,
+    "bytes": 556206,
+    "at": "2026-11-11T19:43:11.129153+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/90",
+    "status": 200,
+    "bytes": 561391,
+    "at": "2026-11-11T19:43:12.271158+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/crediting",
+    "status": 200,
+    "bytes": 43827,
+    "at": "2026-11-11T19:43:12.972024+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/page/target_quota",
+    "status": 200,
+    "bytes": 85054,
+    "at": "2026-11-11T19:43:13.990595+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/ai",
+    "status": 200,
+    "bytes": 1586607,
+    "at": "2026-11-11T19:43:15.045370+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/aiengineer",
+    "status": 200,
+    "bytes": 257480,
+    "at": "2026-11-11T19:43:15.998788+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/bioengineering",
+    "status": 200,
+    "bytes": 271768,
+    "at": "2026-11-11T19:43:16.974952+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/biotechnology",
+    "status": 200,
+    "bytes": 253137,
+    "at": "2026-11-11T19:43:18.073745+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/business_it",
+    "status": 200,
+    "bytes": 251761,
+    "at": "2026-11-11T19:43:19.153570+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/cloud",
+    "status": 200,
+    "bytes": 258807,
+    "at": "2026-11-11T19:43:20.081706+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/computer_systems",
+    "status": 200,
+    "bytes": 249498,
+    "at": "2026-11-11T19:43:21.065766+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/design",
+    "status": 200,
+    "bytes": 277020,
+    "at": "2026-11-11T19:43:22.115121+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/devops",
+    "status": 200,
+    "bytes": 246289,
+    "at": "2026-11-11T19:43:23.165771+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/ecotechnology",
+    "status": 200,
+    "bytes": 255779,
+    "at": "2026-11-11T19:43:24.075765+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/gamedesign",
+    "status": 200,
+    "bytes": 219512,
+    "at": "2026-11-11T19:43:25.226639+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/gamedev",
+    "status": 200,
+    "bytes": 225261,
+    "at": "2026-11-11T19:43:26.097832+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/infochemistry",
+    "status": 200,
+    "bytes": 301616,
+    "at": "2026-11-11T19:43:27.112078+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/information_security",
+    "status": 200,
+    "bytes": 253412,
+    "at": "2026-11-11T19:43:28.116008+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/innovation",
+    "status": 200,
+    "bytes": 253192,
+    "at": "2026-11-11T19:43:29.224969+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/intelligent_systems",
+    "status": 200,
+    "bytes": 252358,
+    "at": "2026-11-11T19:43:30.264732+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/laser",
+    "status": 200,
+    "bytes": 269051,
+    "at": "2026-11-11T19:43:31.323558+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/nanostructures",
+    "status": 200,
+    "bytes": 259302,
+    "at": "2026-11-11T19:43:32.206853+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/neurotechnologies",
+    "status": 200,
+    "bytes": 236322,
+    "at": "2026-11-11T19:43:33.173734+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/photonics",
+    "status": 200,
+    "bytes": 252449,
+    "at": "2026-11-11T19:43:34.311203+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/programming",
+    "status": 200,
+    "bytes": 1655584,
+    "at": "2026-11-11T19:43:35.224700+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/robotics_ai",
+    "status": 200,
+    "bytes": 396341,
+    "at": "2026-11-11T19:43:36.269122+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/software_engineering",
+    "status": 200,
+    "bytes": 1599381,
+    "at": "2026-11-11T19:43:37.375234+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/system_software",
+    "status": 200,
+    "bytes": 243332,
+    "at": "2026-11-11T19:43:38.290334+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/theoretical_physics",
+    "status": 200,
+    "bytes": 258507,
+    "at": "2026-11-11T19:43:39.239512+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/urbanistics",
+    "status": 200,
+    "bytes": 236592,
+    "at": "2026-11-11T19:43:40.238980+00:00"
+  },
+  {
+    "url": "https://abit.itmo.ru/program/bachelor/wireless",
+    "status": 200,
+    "bytes": 260651,
+    "at": "2026-11-11T19:43:41.276294+00:00"
+  }
+]

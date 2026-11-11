@@ -1,0 +1,60 @@
+url,title,topic,scope,education_level,campaign_year,freshness,reason,parent_url
+https://abit.itmo.ru/bachelor,Поступление на бакалавриат ИТМО 2026-2027 | Санкт-Петербург,overview,include,mixed,2026,explicit_2026,Обзор; есть исторические проходные баллы,
+https://abit.itmo.ru/contacts,Контакты ИТМО,contacts,include,general,,undated,Только публичные контакты подразделений,
+https://abit.itmo.ru/faq,Популярные вопросы о ИТМО,faq,include,mixed,2026,explicit_2026,FAQ содержит несколько уровней образования,
+https://abit.itmo.ru/page/105,Вступительные экзамены в вуз - примеры тестирования от ИТМО,exams,include,bachelor,,undated,Программы и примеры испытаний,
+https://abit.itmo.ru/page/113,Правила и сроки приема абитуриентов в ИТМО в 2026 г,admission_rules,include,mixed,2026,explicit_2026,Каталог документов двух уровней,
+https://abit.itmo.ru/page/114,Особенности проведения вступительных испытаний для граждан с ограниченными возможностями здоровья в ИТМО,accessibility,include,bachelor,,undated,HTML и старый PDF требуют сверки,
+https://abit.itmo.ru/page/61,Информация о общежитии в ИТМО,dormitory,include,general,,undated,"Навигация по заселению, не гарантия места",
+https://abit.itmo.ru/page/66,Правила подачи документов на бакалавриат - правила приема ИТМО,admission_rules,include,bachelor,2026,explicit_2026,Заголовок основного текста: правила 2026,
+https://abit.itmo.ru/page/69,Учет индивидуальных достижений для поступления в ИТМО,achievements,include,bachelor,,undated,Табличные достижения требуют связи строк,
+https://abit.itmo.ru/page/71,Места для приема поступающих в бакалавриат в ИТМО,admission_places,include,bachelor,2026,explicit_2026,В SSR отсутствуют значения мест; карантин по малому тексту,
+https://abit.itmo.ru/page/73,Минимальные баллы ЕГЭ для поступления в бакалавриат университета ИТМО,minimum_scores,include,bachelor,2026,explicit_2026,"Минимальные баллы, не проходные",
+https://abit.itmo.ru/page/74,Вступительные испытания бакалавриата в ИТМО,exams,include,mixed,,undated,В начале текст магистратуры,
+https://abit.itmo.ru/page/80,Нормативные документы - ИТМО,regulations,include,mixed,2026,explicit_2026,Подписи 2026 ссылаются в том числе на имена 2025,
+https://abit.itmo.ru/page/86,Подача документов на поступление в ИТМО с помощью почты,application,include,bachelor,2026,explicit_2026,Подача документов по почте,
+https://abit.itmo.ru/page/90,Помощь в заполнении документов на поступление в бакалавриат в ИТМО,application,include,bachelor,,undated,Список документов и ЕПГУ,
+https://abit.itmo.ru/page/crediting,Образовательный кредит,funding,include,general,,undated,Историческая ссылка на постановление не равна году кампании,
+https://abit.itmo.ru/page/target_quota,Целевая квота,target_quota,include,bachelor,2026,explicit_2026,"Публичная процедура, персональные договоры вне скоупа",
+https://abit.itmo.ru/program/bachelor/ai,AI360: ML NATIVE,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/aiengineer,Инженерия искусственного интеллекта,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/bioengineering,Биоинженерия,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/biotechnology,Биотехнология,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/business_it,Бизнес-информатика и управление на основе данных,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/cloud,Управление эксплуатацией систем ИИ,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/computer_systems,Компьютерные системы и технологии,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/design,Компьютерные технологии в дизайне,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/devops,Автоматизация разработки и управления информационными системами,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/ecotechnology,Экотехнологии и устойчивое развитие,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/gamedesign,Геймдизайн и продюсирование компьютерных игр,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/gamedev,Технологии разработки компьютерных игр,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/infochemistry,Инфохимия,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/information_security,Технологии защиты информации,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/innovation,Технологии и инновации,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/intelligent_systems,Языковые модели и искусственный интеллект,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/laser,Лазерные технологии,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/nanostructures,Физика наноструктур,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/neurotechnologies,Нейротехнологии и программирование,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/photonics,Физика фотонных технологий,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/programming,Компьютерные технологии,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/robotics_ai,Робототехника и искусственный интеллект,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/software_engineering,Разработка программного обеспечения / Software Engineering,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/system_software,Системное и прикладное программное обеспечение,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/theoretical_physics,Теоретическая и экспериментальная физика,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/urbanistics,Инновационные технологии в умном городе,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/program/bachelor/wireless,Беспроводные технологии,programs,include,bachelor,,undated,Паспорт программы; год отдельно не подтвержден,
+https://abit.itmo.ru/file_storage/file/pages/82/rsosh_bvi_2026.pdf,посмотреть перечень олимпиад,olympiads,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/bachelor
+https://abit.itmo.ru/file_storage/file/pages/82/rsosh_100_2026.pdf,"Олимпиады РСОШ для получения права на 100 баллов в отношении общеобразовательного вступительного испытания, не дающие право поступления без вступительных испытаний в 2026 году",olympiads,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/bachelor
+https://abit.itmo.ru/file_storage/file/pages/82/vsosh_2026.pdf,"Олимпиады ВСОШ, дающие право поступления без вступительных испытаний в 2026 году",olympiads,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/bachelor
+https://abit.itmo.ru/file_storage/file/pages/80/diatance_form.pdf,бакалавриат,exams,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/113
+https://abit.itmo.ru/file_storage/file/pages/114/vstupitelnye_ekzameny_ogranich_vozm2016.pdf,Положение о проведения вступительных испытаний для граждан с ограниченными возможностями здоровья,accessibility,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/114
+https://abit.itmo.ru/file_storage/file/pages/74/rasp2022.pdf,Расписание вступительных испытаний,exams,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/163
+https://abit.itmo.ru/file_storage/file/pages/80/pravila_bac1.pdf,Ссылка на Правила приема в бакалвриат со всеми приложениями,admission_rules,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/66
+https://abit.itmo.ru/file_storage/file/pages/82/vsosh_2025.pdf,"Олимпиады ВОШ, дающие право поступления без вступительных испытаний в 2026 году",olympiads,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
+https://abit.itmo.ru/file_storage/file/pages/82/rsosh_bvi_2025.pdf,"Олимпиады РСОШ, дающие право поступления без вступительных испытаний в 2026 году",olympiads,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
+https://abit.itmo.ru/file_storage/file/pages/80/appelation.pdf,Положение о порядке апелляции,appeals,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
+https://abit.itmo.ru/file_storage/file/pages/80/disabilities_person_exam.pdf,Положение о проведении вступительных испытаний для поступающих с ограниченными возможностями здоровья,accessibility,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
+https://abit.itmo.ru/file_storage/file/pages/80/polozhenie.pdf,Положение о порядке предоставления мест в общежитиях Университета ИТМО,dormitory,include,general,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
+https://abit.itmo.ru/file_storage/file/pages/80/price.pdf,"Приказ о стоимости обучения по договорам об оказании платных услуг при приеме по программам бакалавриата, магистратуры, аспирантуры в 2026 году",tuition,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
+https://abit.itmo.ru/file_storage/file/pages/80/stip.pdf,Положение о стипендии Университета ИТМО,funding,include,general,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
+https://abit.itmo.ru/file_storage/file/pages/80/target_quota_2026.pdf,Детализированная квота целевого приема,target_quota,include,bachelor,,needs_review,Проверить титульную страницу; год файла не является доказательством,https://abit.itmo.ru/page/80
