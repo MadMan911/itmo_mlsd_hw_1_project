@@ -11,5 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v5
-      - run: uv sync
+      - run: uv sync --group eda --locked
       - run: uv run pre-commit run --all-files --show-diff-on-failure
+      - run: uv run --group eda pytest

@@ -1,0 +1,28 @@
+{
+  "snapshot": "20261111_itmo_bachelor_reviewed_v2",
+  "split": "development",
+  "labeled_questions": 36,
+  "answerable_questions": 24,
+  "policy_cases_not_evaluated": 12,
+  "source_hit_at_5": 0.6666666666666666,
+  "evidence_hit_at_5": 0.5,
+  "evidence_mrr_at_10": 0.3810185185185186,
+  "query_ms_median": 0.5245,
+  "query_ms_p95": 0.8296099999999996,
+  "index_chunks": 576,
+  "parameters": {
+    "k1": 1.5,
+    "b": 0.75
+  },
+  "tokenization": "lowercase, ё->е, alphanumeric regex; no stemming; no stopword removal",
+  "questions_sha256": "67a962725520d21ce9e54d55645b75200146d77ee76b5e54e17c582bc6df7381",
+  "chunks_sha256": "a8402e9bf1dc1b9c4a7fa460b7c30d50b4bdb928cc9650e8ecedaa24b51ef856",
+  "python": "3.11.15",
+  "rank_bm25": "0.2.2",
+  "limitations": [
+    "model-authored development cases; no independent annotator",
+    "one known supporting passage per question; qrels not exhaustive",
+    "not held-out quality; no generation, escalation or privacy metric",
+    "query-only timings from a single small CPU run, not service latency"
+  ]
+}
