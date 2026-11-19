@@ -1,0 +1,25 @@
+{
+  "run_id": "20261111_itmo_bachelor_v1",
+  "command": [
+    "scripts/collect_corpus.py",
+    "--registry",
+    "data/sources/registry.csv",
+    "--run-id",
+    "20261111_itmo_bachelor_v1"
+  ],
+  "python": "3.11.0",
+  "platform": "macOS-15.3.1-arm64-arm-64bit",
+  "git_commit": "4b0d9535f7ca9dc1fb66d09506f621be3c6e15fe",
+  "git_dirty": true,
+  "started_from": "hw_1 / 4b0d953",
+  "source_count": 59,
+  "success_count": 44,
+  "packages": {
+    "httpx": "0.28.1",
+    "beautifulsoup4": "4.15.0",
+    "pypdf": "7.0.1"
+  },
+  "robots_sha256": "6d0bde9fc5e2083f5c6635e7e2bdc94e3b2d02af4432ec49b01b176283213baa",
+  "registry_sha256": "e2612da2776e76556d8461c61a9c50b827dd186c9a9fe3bb79c59c54756e9a77",
+  "collection_policy": "one request per second; no authentication; no external API; no retries"
+}

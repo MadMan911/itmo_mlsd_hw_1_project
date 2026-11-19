@@ -1,0 +1,14 @@
+{
+  "pyproject.toml": "60427e02be43a6bea6ba602dc6b56a6a7b423b6e7dc72b021987391ad613c0d9",
+  "scripts/collect_corpus.py": "fd0a88d653d0822b0af4f7dc2ed80c9784a78ef1bde2cd8f5f5f9ea899e494b0",
+  "scripts/evaluate_bm25.py": "913aec60155ba1ee66bffd1b8874c30e688221f5a29141dc11f1d7a9aefee950",
+  "scripts/execute_notebook.py": "fecb0cc9955d1850cd11f55497510ba4fc65d1d37cb2828f45ab92ce8bd8f74b",
+  "scripts/prepare_corpus.py": "8a64bbab9a4cc8470123c5fbf9acc508944a89332e381fca89122157502c42c9",
+  "scripts/run_eda.py": "e9c2e85ecfd3c7e27f73b64e8bce115b99884c527d64acb73db88c9bd5c2cd7d",
+  "src/app/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "src/app/corpus.py": "f4ebfb42d0ff0f4b031e4aeeaaddcd40ddbac5c6cc586f35728da1ef1e58d08d",
+  "tests/test_collection.py": "91fe8807c1e6f6ef58ca4ae0df78d568fe8f69f6470fff43b58436b0538d6871",
+  "tests/test_corpus.py": "fe8f933757d9f0c5c9dbe35b541cb09215f82f70aac8af07727725af6d199afa",
+  "tests/test_evaluation_contract.py": "5843c6f30be0eab9b4c7acaaecb9c315a8d8094841049b32deb52736cb70dbbb",
+  "uv.lock": "cdeb662fcfeb612af0cd285281e02adefb56be410e487344d70631c647546b43"
+}

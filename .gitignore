@@ -13,5 +13,7 @@ build/
 .idea/
 .vscode/
 data/raw/
+data/processed/
+tmp/
 models/
 mlruns/
