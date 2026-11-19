@@ -43,7 +43,6 @@ def main() -> None:
                 os.environ.pop("JUPYTER_PATH", None)
             else:
                 os.environ["JUPYTER_PATH"] = previous
-    nbformat.write(notebook, notebook_path)
     errors = [
         output
         for cell in notebook.cells
@@ -53,6 +52,14 @@ def main() -> None:
     ]
     if errors:
         raise RuntimeError(errors)
+    for cell in notebook.cells:
+        cell.metadata.pop("execution", None)
+        for output in cell.get("outputs", []):
+            data = output.get("data", {})
+            if "text/plain" in data:
+                data.pop("text/html", None)
+    nbformat.validate(notebook)
+    nbformat.write(notebook, notebook_path)
     print(f"Executed {notebook_path}")
 
 
